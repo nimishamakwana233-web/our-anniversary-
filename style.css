@@ -9,7 +9,7 @@
 
 body{
     font-family:'Poppins',sans-serif;
-    background:url("images/lavender-bg.jpg") center center/cover no-repeat fixed;
+    background:url("images/lavender-bg.png") center center/cover no-repeat fixed;
     min-height:100vh;
     display:flex;
     justify-content:center;
@@ -30,7 +30,7 @@ body::before{
 .card{
     width:90%;
     max-width:360px;
-    background:url("images/paper.jpg") center/cover;
+    background:url("images/paper.png") center/cover;
     border-radius:18px;
     padding:28px 22px;
     position:relative;
